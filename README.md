@@ -26,6 +26,6 @@ Project: CaptchaJS
 
 Version: 1.0
 
-# Feedback:
+# Feedback
 
 Any comments, suggestions or bug reports are welcome.
