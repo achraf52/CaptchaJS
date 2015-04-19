@@ -29,12 +29,10 @@ if (readCookie('captchaCookie')==null)
     	var rnum = Math.floor(Math.random() * chars.length);
     	randomString += chars.substring(rnum,rnum+1);
     }
-    // Set cookie details
+    // Set cookie name
     var captchaCookie = 'captchaCookie';
-    var now = new Date();
-    var time = now.getTime();
-    time += 3600 * 1000;
-    now.setTime(time);
+    // Set session cookie
+    var expires = 0;
     // Create captcha cookie
     document.cookie=captchaCookie+"="+randomString+"; expires=" + now.toUTCString() + "; path=/";
 }
