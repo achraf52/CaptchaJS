@@ -38,3 +38,5 @@ Version: 1.1
 # Feedback
 
 Any comments, suggestions or bug reports are welcome.
+
+[![Baikal](https://baikal.io/badges/achraf52/captchajs)](https://baikal.io/achraf52/captchajs)
