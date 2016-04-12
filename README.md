@@ -39,4 +39,8 @@ Version: 1.1
 
 Any comments, suggestions or bug reports are welcome.
 
+# Support
+
+I also offer installation and premium support for CaptchaJS on Baikal, click the badge below to learn more.
+
 [![Baikal](https://baikal.io/badges/achraf52/captchajs)](https://baikal.io/achraf52/captchajs)
