@@ -20,7 +20,7 @@ you should probably add more security measures to protect your forms.
 
 # Usage
 
-1: Include "captchaJS.js" and assign an "id" to your HTML form in this fashion: `<form action="form.php" method="POST" id="formID">`
+1: Include "captchaJS.js" and assign an "id" to your HTML form: `<form action="form.php" method="POST" id="formID">`
 
 2: Change the "formID" variables in the "captchaJS.js" to your form ID as set in the HTML form code
 
